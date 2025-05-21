@@ -3,7 +3,7 @@
 This project analyzes six months of bike-share trip data to identify behavioral differences between casual riders and annual members. Using SQL in BigQuery, I cleaned and analyzed over a million rows of ride data and uncovered patterns that support marketing strategy recommendations.
 
 ## 📄 Case Study Report
-[📎 View Full Report (PDF)](Cyclistic_Case_Study_Report.pdf)
+[📎 View Full Report (PDF)](Cyclistic Case Study Report.pdf)
 
 ## 🔍 Key Tools
 - BigQuery (SQL analysis)
